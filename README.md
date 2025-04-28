@@ -1,4 +1,4 @@
-I have worked on 3 levels of this internship. I have used python languague to uncover my insights and for the decision making. Firstly i have performed data c;lleaning using pandas libraray
+I have worked on 3 levels of this internship. I have used python languague to uncover my insights and for the decision making. Firstly i have performed data cleaning using pandas libraray
 and replace the missing values with the mode as the data type of the column was categorical. Then i have done Data exploration to find out what variables and its type are present in the dataset.
 After all this, i have started performing the levels assigned to me. 
 Level 1 helped me to understand the type of chart to be used depending on the data type and the way we want to interpret it.
